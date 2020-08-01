@@ -13,7 +13,7 @@ In this lab, you will learn about setting up your coding environment in `Repl.it
 ## Instructions:
 
 ### 1) Setting up Repl.it:
-Please use [this document](https://github.com/meet-projects/Y1-Seminar2020/blob/master/replit-setup.md) as your guide to setting up your Repl.it environment.
+Please use [this document](https://github.com/meet-projects/Y1-Seminar2020-Labs/blob/master/replit-setup.md) as your guide to setting up your Repl.it environment.
 
 
 ### 2) Your first lines of code!
